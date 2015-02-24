@@ -45,7 +45,7 @@ html, body {
               
   
 #right {
-    width: 220px;
+    width: 0px;
     background-color: grey; 
     height: 100%;
     position: fixed;
